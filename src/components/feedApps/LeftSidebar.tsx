@@ -39,7 +39,7 @@ const LeftSidebar = () => {
             <div className="flex items-center justify-center gap-2 cursor-pointer">
                 <img
                     className="h-10 w-auto"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/960px-Logo_of_Twitter.svg.png" alt="" />
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/960px-Logo_of_Twitter.svg.png" alt="apu sikder" />
                 <p className="flex items-center text-2xl font-bold italic">Tweeter</p>
             </div>
             <div className="flex flex-col items-start justify-center gap-4 w-full">
